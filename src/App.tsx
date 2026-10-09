@@ -1,23 +1,18 @@
+import { useState } from 'react'
 import './App.css'
-import { ProductGrid } from './components/ProductGrid'
-import { useProducts } from './useProducts'
+import { Catalog } from './components/Catalog'
+import { FilterPanel } from './components/FilterPanel'
+import { useBrands } from './useBrands'
 
 export default function App() {
-  const { items, total, loading, error, hasMore, loadMore } = useProducts()
+  const brands = useBrands()
+  const [selected, setSelected] = useState<string[]>([])
 
   return (
     <main className="page">
-      <h1 className="page-title">
-        Products
-        <sup className="page-count">{total ?? '—'}</sup>
-      </h1>
-      <ProductGrid
-        items={items}
-        total={total}
-        loading={loading}
-        error={error}
-        hasMore={hasMore}
-        onLoadMore={loadMore}
+      <Catalog
+        brands={selected}
+        aside={<FilterPanel brands={brands} selected={selected} onChange={setSelected} />}
       />
       <footer className="page-footer">
         AI prototyping for Designers by{' '}

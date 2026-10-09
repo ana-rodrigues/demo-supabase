@@ -8,7 +8,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/akai_professional_mpc_key_37_g2.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_64/643124/21194994_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 7,
+    "review_rating": 2.2
   },
   {
     "product_id": "457066",
@@ -19,7 +21,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/korg_minilogue_xd.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_45/457066/14351333_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 18,
+    "review_rating": 3.9
   },
   {
     "product_id": "535185",
@@ -30,7 +34,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/akai_professional_mpk_mini_play_mk3.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_53/535185/17088568_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 31,
+    "review_rating": 4.7
   },
   {
     "product_id": "419761",
@@ -41,7 +47,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/moog_subsequent_37.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_41/419761/12368382_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 43,
+    "review_rating": 4.1
   },
   {
     "product_id": "614034",
@@ -52,7 +60,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/moog_messenger.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_61/614034/20059729_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 17,
+    "review_rating": 2.8
   },
   {
     "product_id": "553604",
@@ -63,7 +73,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/arturia_minifreak.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_55/553604/17863357_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 41,
+    "review_rating": 2.3
   },
   {
     "product_id": "586192",
@@ -74,7 +86,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/suzuki_omnichord_om_108.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_58/586192/19495656_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 38,
+    "review_rating": 1.8
   },
   {
     "product_id": "544439",
@@ -85,7 +99,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/teenage_engineering_op_1_field.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_54/544439/17643235_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 35,
+    "review_rating": 1.5
   },
   {
     "product_id": "564999",
@@ -96,7 +112,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/roland_s_1.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_56/564999/18273244_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 19,
+    "review_rating": 5.0
   },
   {
     "product_id": "457192",
@@ -107,7 +125,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/arturia_microfreak.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_45/457192/14236958_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 45,
+    "review_rating": 4.4
   },
   {
     "product_id": "651926",
@@ -118,7 +138,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/suzuki_omnichord_om_108_complete_set.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_65/651926/21513595_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 6,
+    "review_rating": 3.1
   },
   {
     "product_id": "640338",
@@ -129,7 +151,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/moog_minimoog_bob_moog_tribute_ed.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_64/640338/21425107_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 5,
+    "review_rating": 4.1
   },
   {
     "product_id": "571632",
@@ -140,7 +164,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/behringer_pro_vs_mini.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_57/571632/18959375_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 5,
+    "review_rating": 4.0
   },
   {
     "product_id": "629233",
@@ -151,7 +177,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/arturia_astrolab_37.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_62/629233/20615918_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 42,
+    "review_rating": 1.2
   },
   {
     "product_id": "591526",
@@ -162,7 +190,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/arturia_polybrute_12.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_59/591526/19499576_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 6,
+    "review_rating": 4.0
   },
   {
     "product_id": "597998",
@@ -173,7 +203,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/duebreq_stylophone_theremin.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_59/597998/19405816_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 17,
+    "review_rating": 4.0
   },
   {
     "product_id": "613638",
@@ -184,7 +216,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/behringer_ms_1_mkii_grey.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_61/613638/20313221_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 46,
+    "review_rating": 2.1
   },
   {
     "product_id": "557647",
@@ -195,7 +229,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/expressive_e_osmose.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_55/557647/17863527_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 18,
+    "review_rating": 4.8
   },
   {
     "product_id": "588618",
@@ -206,7 +242,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/arturia_astrolab.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_58/588618/19065858_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 45,
+    "review_rating": 4.5
   },
   {
     "product_id": "602948",
@@ -217,7 +255,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/korg_multi_poly.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_60/602948/20099454_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 33,
+    "review_rating": 3.9
   },
   {
     "product_id": "606932",
@@ -228,7 +268,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/behringer_wave.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_60/606932/20593246_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 10,
+    "review_rating": 3.9
   },
   {
     "product_id": "527776",
@@ -239,7 +281,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/asm_hydrasynth_deluxe.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_52/527776/16933525_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 5,
+    "review_rating": 2.6
   },
   {
     "product_id": "439985",
@@ -250,7 +294,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/moog_grandmother.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_43/439985/13369776_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 4,
+    "review_rating": 1.1
   },
   {
     "product_id": "646012",
@@ -261,7 +307,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/haken_audio_slim_continuum_21s8x.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_64/646012/21566034_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 35,
+    "review_rating": 4.5
   },
   {
     "product_id": "333215",
@@ -272,7 +320,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/moog_theremini.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_33/333215/9184828_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 12,
+    "review_rating": 1.8
   },
   {
     "product_id": "356706",
@@ -283,7 +333,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/teenage_engineering_po_12_rhythm.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_35/356706/9862200_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 1,
+    "review_rating": 2.8
   },
   {
     "product_id": "651670",
@@ -294,7 +346,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/pittsburgh_modular_lifeforms_sv_2.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_65/651670/21638108_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 46,
+    "review_rating": 3.8
   },
   {
     "product_id": "624209",
@@ -305,7 +359,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/instruo_pocket_scion.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_62/624209/20420506_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 48,
+    "review_rating": 2.3
   },
   {
     "product_id": "157271",
@@ -316,7 +372,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/korg_micro_korg.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_15/157271/7432803_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 4,
+    "review_rating": 4.4
   },
   {
     "product_id": "584578",
@@ -327,7 +385,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/akai_professional_mpc_key_37.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_58/584578/18908642_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 11,
+    "review_rating": 4.8
   },
   {
     "product_id": "471402",
@@ -338,7 +398,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/udo_audio_super_6_blue.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_47/471402/16036838_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 19,
+    "review_rating": 4.7
   },
   {
     "product_id": "608946",
@@ -349,7 +411,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/soma_flux.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_60/608946/20094225_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 29,
+    "review_rating": 1.4
   },
   {
     "product_id": "577642",
@@ -360,7 +424,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/korg_modwave_mkii.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_57/577642/18984269_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 1,
+    "review_rating": 2.5
   },
   {
     "product_id": "527778",
@@ -371,7 +437,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/asm_hydrasynth_explorer.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_52/527778/16886591_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 10,
+    "review_rating": 1.6
   },
   {
     "product_id": "539715",
@@ -382,7 +450,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/roland_fantom_06.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_53/539715/17137413_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 18,
+    "review_rating": 2.6
   },
   {
     "product_id": "539717",
@@ -393,7 +463,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/roland_fantom_08.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_53/539717/17137188_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 29,
+    "review_rating": 4.6
   },
   {
     "product_id": "622033",
@@ -404,7 +476,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/sequential_fourm.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_62/622033/20503931_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 7,
+    "review_rating": 2.1
   },
   {
     "product_id": "421619",
@@ -415,7 +489,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/korg_kross_2_61.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_42/421619/12592841_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 50,
+    "review_rating": 2.0
   },
   {
     "product_id": "543478",
@@ -426,7 +502,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/roland_j_6.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_54/543478/17671418_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 13,
+    "review_rating": 1.0
   },
   {
     "product_id": "589730",
@@ -437,7 +515,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/roland_fantom_8_ex.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_58/589730/19173818_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 8,
+    "review_rating": 2.0
   },
   {
     "product_id": "485920",
@@ -448,7 +528,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/roland_jupiter_x.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_48/485920/15111613_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 41,
+    "review_rating": 4.9
   },
   {
     "product_id": "612740",
@@ -459,7 +541,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/moog_geddy_lee_minimoog_model_d.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_61/612740/20004455_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 15,
+    "review_rating": 2.4
   },
   {
     "product_id": "616874",
@@ -470,7 +554,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/novation_bass_station_ii_swifty_edition.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_61/616874/20546768_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 48,
+    "review_rating": 1.0
   },
   {
     "product_id": "312714",
@@ -481,7 +567,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/novation_bass_station_ii.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_31/312714/7914367_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 18,
+    "review_rating": 1.6
   },
   {
     "product_id": "602669",
@@ -492,7 +580,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/behringer_jt_4000m_micro.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_60/602669/19558206_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 16,
+    "review_rating": 3.7
   },
   {
     "product_id": "636181",
@@ -503,7 +593,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/udo_audio_dmno_white.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_63/636181/21409952_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 21,
+    "review_rating": 4.1
   },
   {
     "product_id": "539716",
@@ -514,7 +606,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/roland_fantom_07.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_53/539716/17137328_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 45,
+    "review_rating": 3.2
   },
   {
     "product_id": "593534",
@@ -525,7 +619,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/moog_muse.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_59/593534/19328857_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 12,
+    "review_rating": 2.5
   },
   {
     "product_id": "379052",
@@ -536,7 +632,9 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/korg_minilogue.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_37/379052/10739822_800.jpg",
-    "low_stock": true
+    "low_stock": true,
+    "stock_count": 49,
+    "review_rating": 3.9
   },
   {
     "product_id": "494702",
@@ -547,6 +645,8 @@
     "currency": "EUR",
     "product_url": "https://www.thomann.pt/duebreq_stylophone_s_1_analog.htm?type=category",
     "image_url": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_49/494702/16251321_800.jpg",
-    "low_stock": false
+    "low_stock": false,
+    "stock_count": 34,
+    "review_rating": 4.4
   }
 ]
