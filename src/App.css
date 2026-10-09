@@ -1,0 +1,6 @@
+/* Demo-specific styles only. Tokens, header, footer and segment control live in index.css. */
+.stage {
+  /* Per-variant motion tokens: override under [data-variant='...'] */
+  --demo-duration: 300ms;
+  --demo-ease: cubic-bezier(0.32, 0.72, 0, 1);
+}
