@@ -55,17 +55,10 @@ export function toProduct(row: ProductRow, index = 0): Product {
   }
 }
 
-// Temporary: Korg and Moog interleaved with the sample brand so filtering
-// visibly rearranges cards.
-const EXTRA_MOCK_BRANDS = [
-  { brand: 'Korg', name: 'minilogue xd', price: 749 },
-  { brand: 'Moog', name: 'Grandmother', price: 929 },
-]
-
-const MOCK_PRODUCTS: Product[] = Array.from({ length: MOCK_TOTAL }, (_, i) => {
-  const extra = EXTRA_MOCK_BRANDS[i % 3 - 1]
-  return { id: `544439-${i}`, ...PLACEHOLDER, ...extra }
-})
+const MOCK_PRODUCTS: Product[] = Array.from({ length: MOCK_TOTAL }, (_, i) => ({
+  id: `544439-${i}`,
+  ...PLACEHOLDER,
+}))
 
 // Data boundaries. To go live, replace the bodies with:
 //   fetchProducts: supabase.from('synthesizers').select('*', { count: 'exact' })
