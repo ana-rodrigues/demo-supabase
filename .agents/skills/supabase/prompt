@@ -1,0 +1,1 @@
+Connect this project to Supabase and populate the product page using the data from the products table, connecting each field to the respective interface element. Note that Cards only display image, brand, model and price. Confirm all product cards are displaying correctly and ensure the brand filters are populated and working as specified to filter products.
